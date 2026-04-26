@@ -1,41 +1,46 @@
-#  Victor
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Víctor+Chillón+Maxé;Estudiante+de+GEI+en+la+FIB;Desarrollador+de+Software" alt="Typing SVG" />
+  </a>
+</div>
 
-**Computer Engineering Student @ UPC (FIB)** 
+<br/>
 
----
+### Sobre mí
 
-###  stack tecnológico
+Soy estudiante del Grado en Ingeniería Informática (GEI) en la Facultat d'Informàtica de Barcelona (FIB). Tengo un gran interés en el desarrollo de software a bajo y alto nivel, el diseño de bases de datos y el análisis de datos. 
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PosgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png)|
-| **Gráficos** | ![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=white) |
+### Tecnologías y Herramientas
 
----
+<div align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Ensamblador-1E4F8A?style=for-the-badge&logo=nasm&logoColor=white" alt="Ensamblador" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/R_Studio-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R-Studio" />
+</div>
 
-###  sobre mí
+<br/>
 
--  Estudiante de **Ingeniería Informática** en la **Universitat Politècnica de Catalunya (UPC)**.
--  Apasionado por el desarrollo de motores gráficos y la optimización de sistemas.
--  Usuario de entornos Linux y entusiasta del código eficiente.
+### Estadísticas de GitHub
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vc780&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Vc780" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vc780&theme=tokyonight&hide_border=true" alt="Racha de GitHub de Vc780" />
+</div>
 
-###  estadísticas
+<br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vc780&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff4500&text_color=aaaaaa&icon_color=ffffff" alt="Stats de Vc780" height="150" />
-</p>
+### Contacto y Redes
 
----
+Puedes encontrarme o ponerte en contacto conmigo a través de los siguientes enlaces:
 
-### 📧 contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/víctor-chillón-maxé-30873b395)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@victorchillonmaxe@gmail.com)
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=ffffff&quote=Talk%20is%20cheap.%20Show%20me%20the%20code." alt="Linus Torvalds Quote" />
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/víctor-chillón-maxé-30873b395">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:victorchillonmaxe@gmail.com">
+    <img src="https://img.shields.io/badge/victorchillonmaxe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
