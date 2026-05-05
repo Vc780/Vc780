@@ -22,16 +22,6 @@ Soc estudiant d'Enginyeria Informàtica a la Facultat d'Informàtica de Barcelon
 
 <br/>
 
-### Estadístiques de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vc780&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadístiques de Vc780" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vc780&theme=tokyonight&hide_border=true" alt="Ratxa de GitHub de Vc780" />
-</div>
-
-<br/>
-
 ### Contacte i Xarxes
 
 Pots trobar-me o posar-te en contacte amb mi a través dels següents enllaços:
