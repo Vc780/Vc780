@@ -15,6 +15,7 @@ Soc estudiant d'Enginyeria Informàtica a la Facultat d'Informàtica de Barcelon
 <div align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Ensamblador-1E4F8A?style=for-the-badge&logo=nasm&logoColor=white" alt="Ensamblador" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/R_Studio-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R-Studio" />
